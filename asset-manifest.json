@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactEmojipedia/static/css/main.5d5dfed5.chunk.css",
+    "main.js": "/reactEmojipedia/static/js/main.52712f63.chunk.js",
+    "main.js.map": "/reactEmojipedia/static/js/main.52712f63.chunk.js.map",
+    "runtime-main.js": "/reactEmojipedia/static/js/runtime-main.a9fe3e87.js",
+    "runtime-main.js.map": "/reactEmojipedia/static/js/runtime-main.a9fe3e87.js.map",
+    "static/js/2.dfcac51a.chunk.js": "/reactEmojipedia/static/js/2.dfcac51a.chunk.js",
+    "static/js/2.dfcac51a.chunk.js.map": "/reactEmojipedia/static/js/2.dfcac51a.chunk.js.map",
+    "index.html": "/reactEmojipedia/index.html",
+    "precache-manifest.44b5678b2bf9aee6a7801f1020e8c387.js": "/reactEmojipedia/precache-manifest.44b5678b2bf9aee6a7801f1020e8c387.js",
+    "service-worker.js": "/reactEmojipedia/service-worker.js",
+    "static/css/main.5d5dfed5.chunk.css.map": "/reactEmojipedia/static/css/main.5d5dfed5.chunk.css.map",
+    "static/js/2.dfcac51a.chunk.js.LICENSE.txt": "/reactEmojipedia/static/js/2.dfcac51a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9fe3e87.js",
+    "static/js/2.dfcac51a.chunk.js",
+    "static/css/main.5d5dfed5.chunk.css",
+    "static/js/main.52712f63.chunk.js"
+  ]
+}
